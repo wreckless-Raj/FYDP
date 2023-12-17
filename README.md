@@ -1,2 +1,4 @@
 # FYDP-1
 Crime Analysis and Forecasting: Integrating Machine Learning with Population Density and Economy
+
+In a world which evolves quickly, studying and reducing crime are the most important things that can be done to keep people safe and improve society. The main ideas of this thesis are about analysing and predicting crime using machine learning and two important factors: changes in the population and economic growth. The main goal of this study, which is focused on our country, is to fully observe, analyse, and predict crime patterns. This will help people in law enforcement and community development make better decisions and take more proactive steps. By combining technology, population, and economic indicators, our research aims to provide useful information for making societies safer and more resilient.
